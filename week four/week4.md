@@ -2,7 +2,7 @@
 
 ## Tasks Completed
 
-Job application page created
+Job application page improved
 
 Mobile responsiveness improved
 
